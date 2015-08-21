@@ -1,0 +1,204 @@
+/*h2{
+    align: center;
+}*/
+.table-out{
+    border-collapse:collapse;
+     margin: auto;
+
+}
+
+.tr3{
+    border-right: 1px solid lightgray;
+}
+.tr-table-out{
+    font-size: 14px;
+    padding:5px;
+    border-bottom:1px solid lightgray;
+
+}
+
+.td-checkbox{
+    text-align: center;
+
+}
+
+
+th{
+    font-size: 14px;
+    margin:30px;
+    padding:10px;
+}
+td{
+    font-size: 14px;
+    margin:30px;
+    padding:10px;
+}
+.pg-normal {
+    color: #000000;
+    font-size: 15px;
+    cursor: pointer;
+    background: #D3D3D3;
+    padding: 2px 4px 2px 4px;
+}
+
+.pg-selected {
+    color: #fff;
+    font-size: 15px;
+    background: #000000;
+    padding: 2px 4px 2px 4px;
+}
+/*.textField{
+    align-self: center;
+}*/
+
+.ref{
+    /*align-content: center;*/
+    /*align-self: center;*/
+    text-align: center;
+    /*margin: auto;*/
+    /*background-color: green;*/
+    color: green;
+}
+.button-add{
+    padding: 8px;
+    color: #ffffff;
+    border-radius: 5px;
+    border: 2px solid #3CB371;
+    background: linear-gradient(#00FF7F, #3CB371, #228B22 52%);
+    outline: none;
+}
+.button-add-contact{
+
+    /*padding: 8px;*/
+    color: #ffffff;
+    border-radius: 5px;
+    border: 2px solid #3CB371;
+    background: linear-gradient(#00FF7F, #3CB371, #228B22 52%);
+    outline: none;
+}
+.button-update{
+
+    /*background: red;*/
+    color: #ffffff;
+    border-radius: 5px;
+    /*border-color: #FF0000;*/
+    border: 2px solid #DAA520;
+    background: linear-gradient(#FFD700,#DAA520);
+    outline: none;
+}
+
+.button-delete{
+
+    /*background: red;*/
+    color: #ffffff;
+    border-radius: 5px;
+    /*border-color: #FF0000;*/
+    border: 2px solid #F64C2B;
+    background:linear-gradient(#FB9575, #F45A38 48%, #EA1502 52%, #F02F17);
+    outline: none;
+}
+
+.button-search{
+    position: relative;
+    border-radius:5px;
+    left:580px;
+    top:23px;
+}
+.search-field{
+    position: relative;
+    top:25px;
+    left:575px;
+}
+
+.clear-search-field{
+    position: relative;
+    left:590px;
+    top:23px;
+}
+.button-delete-search{
+    position: relative;
+    top: -13px;
+    left: 820px;
+    border-radius:5px;
+    padding: 0px;
+}
+
+.button-search-delete{
+    position: relative;
+    top:15px;
+    left:630px;
+}
+
+.button-delete-marked{
+    /*background: red;*/
+    color: #ffffff;
+    border-radius: 5px;
+    /*border-color: #FF0000;*/
+    border: 2px solid #B22222;
+    background:linear-gradient(#B22222 52%, #8B0000);
+    outline: none;
+    /*position: relative;
+    top:-10px;
+    left:900px;
+    margin: auto; */
+}
+
+.button-add-user{
+    color: #ffffff;
+    border-radius: 5px;
+    /*border-color: #FF0000;*/
+    border: 2px solid #3CB371;
+    background:linear-gradient(#00FF7F, #3CB371, #228B22 52%);
+    outline: none;
+}
+.button-close-addform{
+    color: #ffffff;
+    border-radius: 5px;
+    /*border-color: #FF0000;*/
+    border: 2px solid #1E90FF;
+    background:linear-gradient(#00BFFF, #1E90FF,  	#4169E1);
+    outline: none;
+}
+
+.label{
+    /*position: relative;
+    top:-10px;
+    font-style: italic;
+    left:885px;*/
+}
+
+.text-field{
+
+    position: relative;
+    left:610px;
+    top:25px;
+}
+
+.text-field-add-user{
+
+    /*display: inline-block;
+    vertical-align: middle;*/
+    border-radius: 3px;
+
+
+}
+/*input[type=text] {
+    display: inline-block;
+    vertical-align: middle;
+}*/
+
+.div-row{
+    padding: 10px;
+    font-size: 12px;
+
+}
+h3{
+    margin: 35px;
+}
+
+
+.div-add-user-buttons{
+    position: relative;
+    left: 80px;
+    padding: 8px;
+}

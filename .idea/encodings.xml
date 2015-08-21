@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
+    <file url="file://$PROJECT_DIR$/src/main/java/controllers/HomeController.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/dao/UserDao.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/dao/UserDaoImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/db" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/mysql.properties" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/spring-app.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp" charset="UTF-8" />
+  </component>
+</project>
+
